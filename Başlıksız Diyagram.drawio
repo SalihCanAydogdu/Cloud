@@ -24,7 +24,7 @@
         <mxCell id="XvsvMZj58ndSoWbJeAnW-23" edge="1" parent="1" source="XvsvMZj58ndSoWbJeAnW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XvsvMZj58ndSoWbJeAnW-17" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XvsvMZj58ndSoWbJeAnW-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Security Group&lt;div&gt;-Port 80,8080&lt;/div&gt;&lt;div&gt;-Port 3306&lt;/div&gt;" vertex="1">
+        <mxCell id="XvsvMZj58ndSoWbJeAnW-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Security Group&lt;div&gt;-Port 80&lt;/div&gt;&lt;div&gt;-Port 3306,8080&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="470" x="180" y="270" as="geometry" />
         </mxCell>
         <mxCell id="XvsvMZj58ndSoWbJeAnW-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
